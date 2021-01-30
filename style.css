@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+
+
+    backround: linear-gradient(#60ebeb 0%, #27ae60 100%);
+
+
+
+
+    .menu {
+        display: table-cell;
+        position: relative;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .links {
+        float: left;
+        color: #fff;
+        padding-top: 5px;
+        padding-left: 9px;
+        padding-right: 9px;
+        padding-bottom: 5px;
+        font-family: fantasy;
+        font-size: 20px
+    }
+
+    .links:hover {
+        background-color: dodgerblue;
+    }
